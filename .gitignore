@@ -1,0 +1,88 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+ENV/
+env/
+.venv
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Data files (exclude large data, keep structure)
+data/raw/*.mat
+data/raw/subject_*/
+data/processed/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+!data/raw/README.md
+
+# Model files
+models/*.pth
+models/*.pt
+!models/.gitkeep
+
+# Results and logs
+results/*.log
+results/*.png
+results/*.pdf
+results/*.csv
+results/*.json
+!results/.gitkeep
+
+logs/*.log
+logs/*.txt
+!logs/.gitkeep
+
+# Experiment outputs
+experiment_output.log
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.bak
+*.cache
+
+# Config files with sensitive info
+config_local.yaml
+.env
+
+# PyTorch
+*.ckpt
+
+# Tensorboard
+runs/
+
+# Model checkpoints
+checkpoints/

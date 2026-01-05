@@ -1,0 +1,96 @@
+'nvidia-smi' 不是内部或外部命令，也不是可运行的程序
+或批处理文件。
+INFO:__main__:Running experiment mode...
+INFO:__main__:Created default config at experiment_config.yaml
+INFO:src.experiment:Starting experiment: bci_multimodal_20251229_234308
+INFO:src.experiment:Loading and preprocessing data...
+INFO:src.experiment:Loading subject 1
+C:\Python312\Lib\site-packages\sklearn\decomposition\_fastica.py:127: ConvergenceWarning: FastICA did not converge. Consider increasing tolerance or the maximum number of iterations.
+  warnings.warn(
+ERROR:src.experiment:Error loading subject 1: No EOG channel(s) found
+INFO:src.experiment:Loading subject 2
+C:\Python312\Lib\site-packages\sklearn\decomposition\_fastica.py:127: ConvergenceWarning: FastICA did not converge. Consider increasing tolerance or the maximum number of iterations.
+  warnings.warn(
+ERROR:src.experiment:Error loading subject 2: No EOG channel(s) found
+INFO:src.experiment:Loading subject 3
+C:\Python312\Lib\site-packages\sklearn\decomposition\_fastica.py:127: ConvergenceWarning: FastICA did not converge. Consider increasing tolerance or the maximum number of iterations.
+  warnings.warn(
+ERROR:src.experiment:Error loading subject 3: No EOG channel(s) found
+INFO:src.experiment:Loading subject 4
+ERROR:src.experiment:Error loading subject 4: Data files not found for subject 4
+INFO:src.experiment:Loading subject 5
+ERROR:src.experiment:Error loading subject 5: Data files not found for subject 5
+INFO:src.experiment:Loading subject 6
+ERROR:src.experiment:Error loading subject 6: Data files not found for subject 6
+INFO:src.experiment:Loading subject 7
+ERROR:src.experiment:Error loading subject 7: Data files not found for subject 7
+INFO:src.experiment:Loading subject 8
+ERROR:src.experiment:Error loading subject 8: Data files not found for subject 8
+INFO:src.experiment:Loading subject 9
+ERROR:src.experiment:Error loading subject 9: Data files not found for subject 9
+INFO:src.experiment:Loading subject 10
+ERROR:src.experiment:Error loading subject 10: Data files not found for subject 10
+INFO:src.experiment:Loading subject 11
+ERROR:src.experiment:Error loading subject 11: Data files not found for subject 11
+INFO:src.experiment:Loading subject 12
+ERROR:src.experiment:Error loading subject 12: Data files not found for subject 12
+INFO:src.experiment:Loading subject 13
+ERROR:src.experiment:Error loading subject 13: Data files not found for subject 13
+INFO:src.experiment:Loading subject 14
+ERROR:src.experiment:Error loading subject 14: Data files not found for subject 14
+INFO:src.experiment:Loading subject 15
+ERROR:src.experiment:Error loading subject 15: Data files not found for subject 15
+INFO:src.experiment:Loading subject 16
+ERROR:src.experiment:Error loading subject 16: Data files not found for subject 16
+INFO:src.experiment:Loading subject 17
+ERROR:src.experiment:Error loading subject 17: Data files not found for subject 17
+INFO:src.experiment:Loading subject 18
+ERROR:src.experiment:Error loading subject 18: Data files not found for subject 18
+INFO:src.experiment:Loading subject 19
+ERROR:src.experiment:Error loading subject 19: Data files not found for subject 19
+INFO:src.experiment:Loading subject 20
+ERROR:src.experiment:Error loading subject 20: Data files not found for subject 20
+INFO:src.experiment:Loading subject 21
+ERROR:src.experiment:Error loading subject 21: Data files not found for subject 21
+INFO:src.experiment:Loading subject 22
+ERROR:src.experiment:Error loading subject 22: Data files not found for subject 22
+INFO:src.experiment:Loading subject 23
+ERROR:src.experiment:Error loading subject 23: Data files not found for subject 23
+INFO:src.experiment:Loading subject 24
+ERROR:src.experiment:Error loading subject 24: Data files not found for subject 24
+INFO:src.experiment:Loading subject 25
+ERROR:src.experiment:Error loading subject 25: Data files not found for subject 25
+INFO:src.experiment:Loading subject 26
+ERROR:src.experiment:Error loading subject 26: Data files not found for subject 26
+INFO:src.experiment:Loading subject 27
+ERROR:src.experiment:Error loading subject 27: Data files not found for subject 27
+INFO:src.experiment:Loading subject 28
+ERROR:src.experiment:Error loading subject 28: Data files not found for subject 28
+INFO:src.experiment:Loading subject 29
+ERROR:src.experiment:Error loading subject 29: Data files not found for subject 29
+INFO:src.experiment:Loading subject 30
+ERROR:src.experiment:Error loading subject 30: Data files not found for subject 30
+INFO:src.experiment:Loading subject 31
+ERROR:src.experiment:Error loading subject 31: Data files not found for subject 31
+INFO:src.experiment:Loading subject 32
+ERROR:src.experiment:Error loading subject 32: Data files not found for subject 32
+INFO:src.experiment:Loading subject 33
+ERROR:src.experiment:Error loading subject 33: Data files not found for subject 33
+INFO:src.experiment:Loading subject 34
+ERROR:src.experiment:Error loading subject 34: Data files not found for subject 34
+INFO:src.experiment:Loading subject 35
+ERROR:src.experiment:Error loading subject 35: Data files not found for subject 35
+INFO:src.experiment:Loading subject 36
+ERROR:src.experiment:Error loading subject 36: Data files not found for subject 36
+INFO:src.experiment:Loading subject 37
+ERROR:src.experiment:Error loading subject 37: Data files not found for subject 37
+INFO:src.experiment:Loading subject 38
+ERROR:src.experiment:Error loading subject 38: Data files not found for subject 38
+INFO:src.experiment:Loading subject 39
+ERROR:src.experiment:Error loading subject 39: Data files not found for subject 39
+INFO:src.experiment:Loading subject 40
+ERROR:src.experiment:Error loading subject 40: Data files not found for subject 40
+ERROR:__main__:Error during experiment: need at least one array to concatenate
+
+Experiment failed with error: need at least one array to concatenate
+Please check your data paths and configuration.
