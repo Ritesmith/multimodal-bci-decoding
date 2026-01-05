@@ -29,7 +29,7 @@
 │   ├── evaluation.py       # 性能评估和可视化
 │   ├── realtime.py        # 实时推理系统
 │   └── experiment.py       # 实验管理和参数调优
-├── data/                   # 数据目录
+├── data/                   # 数据目录（需要自行下载，方法见后文）
 │   ├── raw/               # 原始数据
 │   └── processed/         # 预处理后的数据
 ├── results/               # 实验结果
@@ -293,5 +293,6 @@ pip install -e .  # 开发模式安装
 - GitHub Issues: [项目Issues页面]
 
 ---
+
 
 **注意**: 本项目仅用于研究和教育目的。在临床应用前，请进行充分的验证和测试。
